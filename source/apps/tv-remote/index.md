@@ -25,7 +25,7 @@ SMP-N100, SMP-N200, NSZ-GP7
 ###AV Receiver:
 STR-DN1020, STR-DN1030, STR-DA1800ES
 
-[Apple Store - IOS(Unavailable)](/)   
+[Apple Store - IOS(Coming Soon)](/)   
 [Google Play - Android](https://play.google.com/store/apps/details?id=com.tomtomapps.tvremote)  
 
 ---

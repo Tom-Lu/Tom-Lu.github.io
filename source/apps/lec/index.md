@@ -13,7 +13,7 @@ A free series of textbooks on the subjects of electricity and electronics. All m
 - Volume V - Reference
 - Volume VI - Experiments
 
-[Apple Store - IOS(Unavailable)](/)   
+[Apple Store - IOS(Coming Soon)](/)   
 [Google Play - Android](https://play.google.com/store/apps/details?id=com.tomtomapps.LEC2)  
 
 ---
