@@ -13,7 +13,7 @@ A free series of textbooks on the subjects of electricity and electronics. All m
 - Volume V - Reference
 - Volume VI - Experiments
 
-[Apple Store - IOS(Coming Soon)](/)   
+[Apple Store - IOS](https://itunes.apple.com/us/app/lessons-in-electric-circuits/id1013042566)   
 [Google Play - Android](https://play.google.com/store/apps/details?id=com.tomtomapps.LEC2)  
 
 ---
