@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tom-lu.github.io/apps/mobilescanner/index.html</loc>
+    <lastmod>2017-02-02T13:17:07.296Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tom-lu.github.io/about/index.html</loc>
     <lastmod>2015-07-02T14:55:26.739Z</lastmod>
   </url>
