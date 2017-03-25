@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://tom-lu.github.io//"/>
-  <updated>2015-07-02T14:49:59.831Z</updated>
+  <updated>2015-07-02T14:49:59.000Z</updated>
   <id>http://tom-lu.github.io//</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title><![CDATA[博客上线]]></title>
-    <link href="http://tom-lu.github.io/2015/07/02/blog_online/"/>
-    <id>http://tom-lu.github.io/2015/07/02/blog_online/</id>
-    <published>2015-07-02T15:06:39.540Z</published>
-    <updated>2015-07-02T14:49:59.831Z</updated>
+    <link href="http://tom-lu.github.io/2017/03/13/blog_online/"/>
+    <id>http://tom-lu.github.io/2017/03/13/blog_online/</id>
+    <published>2017-03-13T05:37:05.393Z</published>
+    <updated>2015-07-02T14:49:59.000Z</updated>
     <content type="html"><![CDATA[<p>博客上线！<br>主要记录工作中的点滴心得。同时也是为了满足Apple Store要求提供应用的支持网址。App开发的主要目的不是为了赚钱，希望可以在工作之余对其他行业有所接触了解。</p>
 <img src="/images/start.png"> 
 <p>之前在发布Android程序时使用了Tomtomapps，所以干脆就以此命名博客了。<br><img src="/images/tomtomapps_logo.png"> </p>
